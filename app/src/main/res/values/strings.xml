@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HomeBudgetCalculator</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_budget_list">BudgetListActivity</string>
+</resources>

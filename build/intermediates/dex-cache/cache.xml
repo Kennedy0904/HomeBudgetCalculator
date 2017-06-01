@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Joshua Yang\Desktop\Web\HomeBudgetCalculator\app\libs\java-json.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="edad9c5de6fb8df07c535a47045956026011ffa3">
+        <dex dex="C:\Users\Joshua Yang\Desktop\Web\HomeBudgetCalculator\app\build\intermediates\pre-dexed\debug\java-json_caa827e8a11b85856336d1234c15b392164b5bf0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Joshua Yang\Desktop\Web\HomeBudgetCalculator\app\libs\commons-logging-1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4bfc12adfe4842bf07b657f0369c4cb522955686">
+        <dex dex="C:\Users\Joshua Yang\Desktop\Web\HomeBudgetCalculator\app\build\intermediates\pre-dexed\debug\commons-logging-1.2_7200c6738b8930fc9e4a49b62cf3f6d39699b92e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Joshua Yang\Desktop\Web\HomeBudgetCalculator\app\libs\apache-httpcomponents-httpcore.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="33fc26c02f8043ab0ede19eadc8c9885386b255c">
+        <dex dex="C:\Users\Joshua Yang\Desktop\Web\HomeBudgetCalculator\app\build\intermediates\pre-dexed\debug\apache-httpcomponents-httpcore_b9bfa1da81eed7f12a8b893572ebd3c9e37f4783.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Joshua Yang\Desktop\Web\HomeBudgetCalculator\app\libs\apache-httpcomponents-httpclient.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="13d1b1d8f318f5b0f95bc2901f378ef68982584f">
+        <dex dex="C:\Users\Joshua Yang\Desktop\Web\HomeBudgetCalculator\app\build\intermediates\pre-dexed\debug\apache-httpcomponents-httpclient_ac94258951fb332e822cf326b13c1bd9fdeebb0b.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/txtViewMonth"
+        android:layout_width="50sp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="51dp"
+        android:layout_marginStart="51dp"
+        android:layout_marginTop="11dp"
+        android:text="Month"
+        android:textAlignment="center" />
+
+    <TextView
+        android:id="@+id/txtViewTotal"
+        android:layout_width="50sp"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/txtViewMonth"
+        android:layout_alignBottom="@+id/txtViewMonth"
+        android:layout_centerHorizontal="true"
+        android:text="Total"
+        android:textAlignment="center" />
+
+    <TextView
+        android:id="@+id/txtViewStatus"
+        android:layout_width="50sp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignTop="@+id/txtViewTotal"
+        android:layout_marginEnd="52dp"
+        android:layout_marginRight="52dp"
+        android:text="Status"
+        android:textAlignment="center" />
+</RelativeLayout>
