@@ -11,13 +11,13 @@ Home Budget Calculator created using Android Studio for the Mobile Application D
 
 
 ### Screenshot
-![]({{site.baseurl}}//18902412_10211668936452284_1055668939_n.png)
+![18902412_10211668936452284_1055668939_n](https://cloud.githubusercontent.com/assets/29114455/26722512/dc4caad4-47c2-11e7-9b46-05cb124f11d0.png)
 
-![]({{site.baseurl}}//18871555_10211668936292280_550838937_n.png)
+![18871555_10211668936292280_550838937_n](https://cloud.githubusercontent.com/assets/29114455/26722527/ef073c2a-47c2-11e7-9031-d37a3d118a8c.png)
 
-![]({{site.baseurl}}//18928472_10211668936212278_348656142_n.png)
+![18928472_10211668936212278_348656142_n](https://cloud.githubusercontent.com/assets/29114455/26722539/f1ccce8e-47c2-11e7-9e7b-83530df1b68b.png)
 
-![]({{site.baseurl}}//18835373_10211668935732266_1993388953_n.png)
+![18835373_10211668935732266_1993388953_n](https://cloud.githubusercontent.com/assets/29114455/26722543/fc076ae4-47c2-11e7-8445-acfe79c681ca.png)
 
 
 ### Installation 
